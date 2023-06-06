@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Abdullah438/fullstack_website/issues"
   },
-  "homepage": "https://github.com/Abdullah438/fullstack_website#readme"
+  "homepage": "https://github.com/Abdullah438/fullstack_website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
