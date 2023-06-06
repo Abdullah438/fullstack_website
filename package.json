@@ -1,0 +1,19 @@
+{
+  "name": "fullstack_website",
+  "version": "1.0.0",
+  "description": "This is a fullstack website built with HTML/Css NodeJS Scss Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah438/fullstack_website.git"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdullah438/fullstack_website/issues"
+  },
+  "homepage": "https://github.com/Abdullah438/fullstack_website#readme"
+}
